@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "slang_override_sample",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "slang_override_sample (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
