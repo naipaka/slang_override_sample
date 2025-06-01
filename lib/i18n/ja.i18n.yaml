@@ -1,0 +1,5 @@
+greeting: "こんにちは!"
+welcomeMessage: "私たちのアプリケーションへようこそ"
+language:
+  english: "英語"
+  japanese: "日本語"

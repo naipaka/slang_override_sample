@@ -1,0 +1,5 @@
+greeting: "Hello!"
+welcomeMessage: "Welcome to our application."
+language:
+  english: "English"
+  japanese: "Japanese"
